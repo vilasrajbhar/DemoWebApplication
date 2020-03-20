@@ -3,14 +3,16 @@ C:\Projects\MyWebApp\DemoWebApplication\DemoWebApplication\bin\Debug\netcoreapp2
 C:\Projects\MyWebApp\DemoWebApplication\DemoWebApplication\bin\Debug\netcoreapp2.1\DemoWebApplication.runtimeconfig.dev.json
 C:\Projects\MyWebApp\DemoWebApplication\DemoWebApplication\bin\Debug\netcoreapp2.1\DemoWebApplication.dll
 C:\Projects\MyWebApp\DemoWebApplication\DemoWebApplication\bin\Debug\netcoreapp2.1\DemoWebApplication.pdb
+C:\Projects\MyWebApp\DemoWebApplication\DemoWebApplication\obj\Debug\netcoreapp2.1\DemoWebApplication.csproj.CoreCompileInputs.cache
+C:\Projects\MyWebApp\DemoWebApplication\DemoWebApplication\obj\Debug\netcoreapp2.1\DemoWebApplication.AssemblyInfoInputs.cache
+C:\Projects\MyWebApp\DemoWebApplication\DemoWebApplication\obj\Debug\netcoreapp2.1\DemoWebApplication.AssemblyInfo.cs
+C:\Projects\MyWebApp\DemoWebApplication\DemoWebApplication\obj\Debug\netcoreapp2.1\DemoWebApplication.dll
+C:\Projects\MyWebApp\DemoWebApplication\DemoWebApplication\obj\Debug\netcoreapp2.1\DemoWebApplication.pdb
 C:\Projects\MyWebApp\DemoWebApplication\DemoWebApplication\bin\Debug\netcoreapp2.1\DemoWebApplication.Views.dll
 C:\Projects\MyWebApp\DemoWebApplication\DemoWebApplication\bin\Debug\netcoreapp2.1\DemoWebApplication.Views.pdb
 C:\Projects\MyWebApp\DemoWebApplication\DemoWebApplication\obj\Debug\netcoreapp2.1\DemoWebApplication.csprojAssemblyReference.cache
-C:\Projects\MyWebApp\DemoWebApplication\DemoWebApplication\obj\Debug\netcoreapp2.1\DemoWebApplication.csproj.CoreCompileInputs.cache
 C:\Projects\MyWebApp\DemoWebApplication\DemoWebApplication\obj\Debug\netcoreapp2.1\DemoWebApplication.RazorAssemblyInfo.cache
 C:\Projects\MyWebApp\DemoWebApplication\DemoWebApplication\obj\Debug\netcoreapp2.1\DemoWebApplication.RazorAssemblyInfo.cs
-C:\Projects\MyWebApp\DemoWebApplication\DemoWebApplication\obj\Debug\netcoreapp2.1\DemoWebApplication.AssemblyInfoInputs.cache
-C:\Projects\MyWebApp\DemoWebApplication\DemoWebApplication\obj\Debug\netcoreapp2.1\DemoWebApplication.AssemblyInfo.cs
 C:\Projects\MyWebApp\DemoWebApplication\DemoWebApplication\obj\Debug\netcoreapp2.1\DemoWebApplication.TagHelpers.input.cache
 C:\Projects\MyWebApp\DemoWebApplication\DemoWebApplication\obj\Debug\netcoreapp2.1\DemoWebApplication.TagHelpers.output.cache
 C:\Projects\MyWebApp\DemoWebApplication\DemoWebApplication\obj\Debug\netcoreapp2.1\DemoWebApplication.RazorCoreGenerate.cache
@@ -27,6 +29,4 @@ C:\Projects\MyWebApp\DemoWebApplication\DemoWebApplication\obj\Debug\netcoreapp2
 C:\Projects\MyWebApp\DemoWebApplication\DemoWebApplication\obj\Debug\netcoreapp2.1\DemoWebApplication.RazorTargetAssemblyInfo.cache
 C:\Projects\MyWebApp\DemoWebApplication\DemoWebApplication\obj\Debug\netcoreapp2.1\DemoWebApplication.RazorTargetAssemblyInfo.cs
 C:\Projects\MyWebApp\DemoWebApplication\DemoWebApplication\obj\Debug\netcoreapp2.1\DemoWebApplication.Views.pdb
-C:\Projects\MyWebApp\DemoWebApplication\DemoWebApplication\obj\Debug\netcoreapp2.1\DemoWebApplication.dll
-C:\Projects\MyWebApp\DemoWebApplication\DemoWebApplication\obj\Debug\netcoreapp2.1\DemoWebApplication.pdb
 C:\Projects\MyWebApp\DemoWebApplication\DemoWebApplication\obj\Debug\netcoreapp2.1\DemoWebApplication.csproj.CopyComplete
