@@ -5,7 +5,6 @@ C:\Projects\MyWebApp\DemoWebApplication\DemoWebApplication\bin\Release\netcoreap
 C:\Projects\MyWebApp\DemoWebApplication\DemoWebApplication\bin\Release\netcoreapp2.1\DemoWebApplication.pdb
 C:\Projects\MyWebApp\DemoWebApplication\DemoWebApplication\bin\Release\netcoreapp2.1\DemoWebApplication.Views.dll
 C:\Projects\MyWebApp\DemoWebApplication\DemoWebApplication\bin\Release\netcoreapp2.1\DemoWebApplication.Views.pdb
-C:\Projects\MyWebApp\DemoWebApplication\DemoWebApplication\obj\Release\netcoreapp2.1\DemoWebApplication.csprojAssemblyReference.cache
 C:\Projects\MyWebApp\DemoWebApplication\DemoWebApplication\obj\Release\netcoreapp2.1\DemoWebApplication.csproj.CoreCompileInputs.cache
 C:\Projects\MyWebApp\DemoWebApplication\DemoWebApplication\obj\Release\netcoreapp2.1\DemoWebApplication.RazorAssemblyInfo.cache
 C:\Projects\MyWebApp\DemoWebApplication\DemoWebApplication\obj\Release\netcoreapp2.1\DemoWebApplication.RazorAssemblyInfo.cs
