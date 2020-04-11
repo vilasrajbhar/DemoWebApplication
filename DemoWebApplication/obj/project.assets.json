@@ -11808,7 +11808,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Maya\\.nuget\\packages\\": {},
+    "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -11817,14 +11817,14 @@
       "projectUniqueName": "C:\\Projects\\MyWebApp\\DemoWebApplication\\DemoWebApplication\\DemoWebApplication.csproj",
       "projectName": "DemoWebApplication",
       "projectPath": "C:\\Projects\\MyWebApp\\DemoWebApplication\\DemoWebApplication\\DemoWebApplication.csproj",
-      "packagesPath": "C:\\Users\\Maya\\.nuget\\packages\\",
+      "packagesPath": "C:\\WINDOWS\\system32\\config\\systemprofile\\.nuget\\packages\\",
       "outputPath": "C:\\Projects\\MyWebApp\\DemoWebApplication\\DemoWebApplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Maya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\WINDOWS\\system32\\config\\systemprofile\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -1,3 +1,5 @@
 .vs
 bin
-bin\Debug
+obj
+Debug
+Release
