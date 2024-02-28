@@ -6,12 +6,12 @@ pipeline {
         stage('Build') {
             steps('Build Class library') {	
                bat 'dotnet restore DemoWebApplication.sln'
-               bat '"dotnet build DemoWebApplication.sln /t:Build /p:Configuration=Release"'                             
+               bat 'dotnet build DemoWebApplication.sln /t:Build /p:Configuration=Release'                             
             }
         }
          stage('UnitTests') {
             steps {                
-              	bat '"dotnet test DemoWebApplication.sln --logger "trx;LogFileName=${WORKSPACE}/unit_tests.xml"' 
+              	bat 'dotnet test DemoWebApplication.sln --logger "trx;LogFileName=${WORKSPACE}/unit_tests.xml"' 
             }
         }
         
