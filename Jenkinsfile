@@ -5,9 +5,9 @@ pipeline {
     stages {
         stage('Build') {
             steps('Build Class library') {	
-               bat "\"dotnet\" ${WORKSPACE}\\DemoWebApplication.sln /t:Build /p:Configuration=Release"
-               //bat 'dotnet restore .\DemoWebApplication.sln'
-               //bat 'dotnet build .\DemoWebApplication.sln'                             
+               bat '"dotnet ${WORKSPACE}\\DemoWebApplication.sln /t:Build /p:Configuration=Release"'
+               bat '"dotnet restore .\DemoWebApplication.sln"'
+               bat '"dotnet build .\DemoWebApplication.sln"'                             
             }
         }
          stage('UnitTests') {
