@@ -5,14 +5,14 @@ pipeline {
     stages {
         stage('Build') {
             steps('Build Class library') {	
-               bat '"dotnet clean DemoWebApplication.sln /t:Build /p:Configuration=Release"'
-               bat '"dotnet restore DemoWebApplication.sln"'
-               bat '"dotnet build DemoWebApplication.sln"'                             
+               bat 'dotnet clean .\DemoWebApplication.sln /t:Build /p:Configuration=Release'
+               bat 'dotnet restore .\DemoWebApplication.sln'
+               bat 'dotnet build .\DemoWebApplication.sln'                             
             }
         }
          stage('UnitTests') {
             steps {                
-              	bat '"dotnet test ${WORKSPACE} --logger "trx;LogFileName=${WORKSPACE}/unit_tests.xml"' 
+              	bat '"dotnet test .\DemoWebApplication.sln --logger "trx;LogFileName=${WORKSPACE}/unit_tests.xml"' 
             }
         }
         
