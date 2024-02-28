@@ -5,7 +5,8 @@ pipeline {
     stages {
         stage('Build') {
             steps('Build Class library') {	
-               bat 'dotnet clean .\DemoWebApplication.sln /t:Build /p:Configuration=Release'
+               //bat 'dotnet clean .\DemoWebApplication.sln /t:Build /p:Configuration=Release'
+               bat "\"dotent\" ${WORKSPACE}\\DemoWebApplication.sln /t:Build /p:Configuration=Release"
                bat 'dotnet restore .\DemoWebApplication.sln'
                bat 'dotnet build .\DemoWebApplication.sln'                             
             }
